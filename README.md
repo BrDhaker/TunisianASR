@@ -1,16 +1,24 @@
-# Tunisian_ASR
+# TunisianASR
 
-A new Flutter project.
+TunisianASR is an Automatic Speech Recognition (ASR) mobile app specifically designed to transcribe Tunisian Arabic speech.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **WavLM Model**: Transformer-based deep neural network for speech recognition.
+- **KenLM**: 4-gram language model for enhanced transcription accuracy.
+- **Gradio**: Interface for creating API and web-based demos.
+- **Flutter and Dart**: For developing the mobile app.
+- **Hugging Face**: Hosting and deployment platform for the ASR model.
+
+## Screenshots
+
+![Screenshot 1](images/f7.png)
+*Description of the first screenshot.*
+
+![Screenshot 2](images/f8.png)
+*Description of the second screenshot.*
+
+
