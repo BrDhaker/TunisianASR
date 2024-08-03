@@ -1,7 +1,7 @@
 # TunisianASR
 
 TunisianASR is an Automatic Speech Recognition (ASR) mobile app specifically designed to transcribe Tunisian Arabic speech.
-
+The Transcription can be made using a real time recording or an audio file from the device local Storage. 
 
 
 
@@ -16,9 +16,9 @@ TunisianASR is an Automatic Speech Recognition (ASR) mobile app specifically des
 ## Screenshots
 
 ![Screenshot 1](images/f7.jpg)
-*Description of the first screenshot.*
+*App in Dark Mode*
 
 ![Screenshot 2](images/f8.jpg)
-*Description of the second screenshot.*
+*App in Ligh Mode*
 
 
