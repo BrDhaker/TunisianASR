@@ -15,11 +15,12 @@ The Transcription can be made using a real time recording or an audio file from 
 
 ## Screenshots
 
-![Screenshot 1](images/f7.jpg)
+### Dark Mode
+<img src="images/f7.jpg" alt="App in Dark Mode" width="300"/>
 *App in Dark Mode*
 
-
-![Screenshot 2](images/f8.jpg)
+### Light Mode
+<img src="images/f8.jpg" alt="App in Light Mode" width="300"/>
 *App in Light Mode*
 
 
