@@ -18,7 +18,8 @@ The Transcription can be made using a real time recording or an audio file from 
 ![Screenshot 1](images/f7.jpg)
 *App in Dark Mode*
 
+
 ![Screenshot 2](images/f8.jpg)
-*App in Ligh Mode*
+*App in Light Mode*
 
 
