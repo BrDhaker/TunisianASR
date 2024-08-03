@@ -15,10 +15,10 @@ TunisianASR is an Automatic Speech Recognition (ASR) mobile app specifically des
 
 ## Screenshots
 
-![Screenshot 1](images/f7.png)
+![Screenshot 1](images/f7.jpg)
 *Description of the first screenshot.*
 
-![Screenshot 2](images/f8.png)
+![Screenshot 2](images/f8.jpg)
 *Description of the second screenshot.*
 
 
